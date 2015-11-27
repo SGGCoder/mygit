@@ -1,0 +1,6 @@
+<date time="22:41 2015/11/26">
+<head>System.IO</head>
+<content1>StreamReader re=new StreamReader(path)</content1>
+<content2>StreamWriter wr=new StreamWriter(FileStream,Enconding)</content2>
+</date>
+
