@@ -1,6 +1,17 @@
-<date time="22:41 2015/11/26">
-<head>System.IO</head>
-<content1>StreamReader re=new StreamReader(path)</content1>
-<content2>StreamWriter wr=new StreamWriter(FileStream,Enconding)</content2>
-</date>
-
+<?xml version="1.0" encoding="UTF-8"?>
+    <diary name="SGGCoder">
+        <note date="22:41 2015/11/26">
+            <summary>System.IO</summary>
+            <value>
+                <ex>StreamReader re=new StreamReader(path)</ex>
+                <ex>StreamWriter wr=new StreamWriter(FileStream,Enconding)</ex>
+            </value>
+        </note>
+        <note date="18:55 2015/11/27">
+            <summary>Operate character and Xml node</summary>
+            <value>
+                <ex>XmlDataDocument and XmlNodeList</ex>
+                <ex>List</ex>
+            </value>
+        </note>
+  </diary>
